@@ -1,0 +1,27 @@
+{
+  "name": "trex-runner-ai",
+  "version": "1.0.0",
+  "description": "An AI agent learn to play the game by its own",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buraktekin/t-rex-runner.git"
+  },
+  "keywords": [
+    "ai",
+    "reinforcement",
+    "learning",
+    "trex-runner",
+    "game",
+    "self-learning"
+  ],
+  "author": "Burak Tekin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buraktekin/t-rex-runner/issues"
+  },
+  "homepage": "https://github.com/buraktekin/t-rex-runner#readme"
+}
